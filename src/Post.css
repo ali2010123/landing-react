@@ -1,0 +1,79 @@
+.post {
+    min-width: 400px;
+     max-width:600px ;
+    border: 2px solid burlywood;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;
+    border-radius: 20px;
+    margin: 20px auto;
+}
+.dtv { 
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+background-color: blue;
+padding:10px 20px;
+color: bisque;
+}
+.dtv1 {
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(255, 0, 0);
+padding:10px 20px;
+color: bisque;
+}
+.delete-dtn {
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(255, 0, 0);
+padding:10px 20px;
+color: bisque;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;
+
+}
+p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;  
+}
+button {
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(255, 0, 0);
+padding:10px 20px;
+color: bisque;
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;
+}
+
+input {
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(249, 183, 218);
+padding:10px 20px;
+color: bisque;
+}
+.form-input textarea {
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(249, 183, 218);
+padding:10px 20px;
+resize: none;
+}
